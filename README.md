@@ -7,7 +7,7 @@ Usage
 -----
 
 <pre>
-redtube-dl <URL>
+redtube-dl &lt;URL&gt;
 </pre>
 
 Detailed Usage
