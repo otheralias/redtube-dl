@@ -35,4 +35,4 @@ Requirements
 Keywords
 --------
 
-    Download redtube videos for FREE!
+    How to download redtube videos?
