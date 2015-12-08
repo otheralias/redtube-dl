@@ -3,6 +3,8 @@ redtube-dl
 
 A script to download redtube videos.
 
+(NOTE: No longer works: Either use youtube-dl or sign up and get membership)
+
 Usage
 -----
 
